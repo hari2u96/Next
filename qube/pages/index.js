@@ -16,7 +16,7 @@ function Home() {
             </div>
             <div className={styles.nav1}>
               <ul className={styles.ul}>
-                <li className={styles.li}>Homeee</li>
+                <li className={styles.li}>Home</li>
                 <li className={styles.li}>Services</li>
                 <li className={styles.li}>Datascience</li>
                 <li className={styles.li}>Technologies</li>
