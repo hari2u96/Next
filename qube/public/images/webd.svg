@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="78px" height="68px" viewBox="0 0 78 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>2.2</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="13.2864369%" y1="130.872566%" x2="50%" y2="17.7371674%" id="linearGradient-1">
+            <stop stop-color="#1F6FD6" offset="0%"></stop>
+            <stop stop-color="#00EFA3" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="61" height="49" rx="3.46499991"></rect>
+        <rect id="path-4" x="0" y="0" width="61" height="49" rx="3.46499991"></rect>
+        <path d="M16.9475755,28.0736665 C23.2727965,24.1065877 27.8570608,20.9173856 30.7003684,18.5060602 C34.9653298,14.8890721 40.3507005,8.58379947 41.7059872,7.05425767 C43.0612739,5.52471586 41.2851191,3.33174777 39.3825301,4.70979335 C37.4799411,6.08783894 31.5739918,9.31357393 27.1752392,13.0736717 C24.2427375,15.5804035 20.1451316,19.7376097 14.8824216,25.54529 L16.9475755,28.0736665 Z" id="path-6"></path>
+        <filter x="-18.3%" y="-16.8%" width="136.6%" height="142.0%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0788337942   0 0 0 0 0.43248981   0 0 0 0 0.395569676  0 0 0 0.528791521 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="34.6381044%" y1="47.2180342%" x2="50%" y2="62.6003004%" id="linearGradient-9">
+            <stop stop-color="#DDFFF7" offset="0%"></stop>
+            <stop stop-color="#B2FFEC" offset="36.9329412%"></stop>
+            <stop stop-color="#CDFFF3" offset="81.0429264%"></stop>
+            <stop stop-color="#D6FFF5" offset="100%"></stop>
+        </linearGradient>
+        <path d="M2.443876,27.8835603 C9.92905949,23.2358174 15.3540177,19.4994178 18.7187506,16.6743615 C23.7658499,12.4367771 30.138827,5.04965731 31.7426555,3.2576795 C33.346484,1.46570169 31.2446056,-1.10353189 28.9931068,0.510956258 C26.741608,2.1254444 19.7525851,5.90464515 14.547159,10.3098937 C11.076875,13.246726 6.22782196,18.117218 -2.48689953e-15,24.9213697 L2.443876,27.8835603 Z" id="path-10"></path>
+        <filter x="-90.8%" y="-82.0%" width="290.4%" height="256.2%" filterUnits="objectBoundingBox" id="filter-12">
+            <feGaussianBlur stdDeviation="0.699999988" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <linearGradient x1="0%" y1="50%" x2="91.5397065%" y2="62.6991748%" id="linearGradient-13">
+            <stop stop-color="#34E2BA" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="2.2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-3-Copy-3">
+            <g id="Group-2-Copy-2">
+                <g id="Rectangle">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <use id="Mask" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                    <rect fill="#11BEA8" mask="url(#mask-3)" x="0" y="0" width="61" height="8"></rect>
+                </g>
+            </g>
+            <circle id="Oval" fill="#FFFFFF" cx="5" cy="4" r="1"></circle>
+            <circle id="Oval-Copy" fill="#FFFFFF" cx="9" cy="4" r="1"></circle>
+            <circle id="Oval-Copy-2" fill="#FFFFFF" cx="13" cy="4" r="1"></circle>
+            <g id="Group-2-Copy" transform="translate(17.000000, 19.000000)">
+                <g id="Rectangle-+-Oval-+-Oval-Copy-+-Oval-Copy-2-Mask">
+                    <mask id="mask-5" fill="white">
+                        <use xlink:href="#path-4"></use>
+                    </mask>
+                    <use id="Mask" fill="url(#linearGradient-1)" opacity="0.861537388" xlink:href="#path-4"></use>
+                    <rect id="Rectangle" fill="#11BEA8" mask="url(#mask-5)" x="0" y="0" width="61" height="8"></rect>
+                    <circle id="Oval" fill="#FFFFFF" mask="url(#mask-5)" cx="5" cy="4" r="1"></circle>
+                    <circle id="Oval-Copy" fill="#FFFFFF" mask="url(#mask-5)" cx="9" cy="4" r="1"></circle>
+                    <circle id="Oval-Copy-2" fill="#FFFFFF" mask="url(#mask-5)" cx="13" cy="4" r="1"></circle>
+                </g>
+            </g>
+            <g id="Group-5-Copy-2" transform="translate(27.000000, 3.000000)">
+                <mask id="mask-7" fill="white">
+                    <use xlink:href="#path-6"></use>
+                </mask>
+                <g id="Mask" fill="black" fill-opacity="1">
+                    <use filter="url(#filter-8)" xlink:href="#path-6"></use>
+                </g>
+                <g id="Path-14" transform="translate(14.882422, 0.190106)">
+                    <mask id="mask-11" fill="white">
+                        <use xlink:href="#path-10"></use>
+                    </mask>
+                    <use id="Mask" fill="url(#linearGradient-9)" xlink:href="#path-10"></use>
+                    <path d="M4.9018169,26.6805196 C4.73507667,25.8815446 4.36033026,25.1339975 3.77757769,24.4378784 C3.19482512,23.7417593 2.5173847,23.232431 1.74525645,22.9098935" id="Path-4" stroke="#6CFFDD" stroke-width="0.699999988" opacity="0.351236979" mask="url(#mask-11)"></path>
+                    <path d="M2.44525644,27.8835603 C2.16372212,26.9153813 1.87124039,26.2475043 1.56781124,25.8799294 C1.26438209,25.5123544 0.741778343,25.1928345 0,24.9213697" stroke-opacity="0.312144886" stroke="#3FC5A5" stroke-width="0.699999988" filter="url(#filter-12)" mask="url(#mask-11)"></path>
+                </g>
+                <path d="M14.8824216,25.0816423 C14.1545755,24.7436498 11.7749852,23.9720742 8.73184049,25.0816423 C5.68869576,26.1912104 5.50205429,28.2822436 4.05755306,29.028523 C3.09455223,29.5260425 1.7520137,29.6090067 0.0299374429,29.2774154 C3.42743302,34.0352815 7.02938797,36.2948555 10.8358023,36.0561374 C16.5454238,35.6980602 17.3668201,28.7005282 17.3262976,28.0736665 C17.2857751,27.4468048 17.1265574,27.0382678 16.647611,26.4518963 C16.1686646,25.8655248 15.6102677,25.4196348 14.8824216,25.0816423 Z" id="Path-5" fill="url(#linearGradient-13)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
